@@ -1,16 +1,47 @@
-### Hi there 👋
 
-<!--
-**ThaveeshaThathsara/ThaveeshaThathsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey Dev! I'm glad that you visited me 😄
+<div align="center">
+ <a href="https://github.com/ThaveeshaThathsara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThaveeshaThathsara&theme=darcula&show_icons=true" />
+</a>
+<a href="https://github.com/ThaveeshaThathsara">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThaveeshaThathsara&theme=darcula" />
+</a>
+<br>
+ 
+ 
 
-Here are some ideas to get you started:
+  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </p>
+ </div> 
+ <div align="center">
+<a href="https://github.com/ThaveeshaThathsara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaveeshaThathsara&langs_count=6)" />
+</a>
+<a href="https://github.com/ThaveeshaThathsara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThaveeshaThathsara" />
+</a>
+ </div> 
+
+### Facts about me:<br>
+💻 <br>
+🌱 I’m currently learning React and .NETCore and frontend  technologies<br>
+🔄 Routine : Eat - Sleep - Code - Repeat<br>
+😆 Fun fact call me as Bunny <br>
+❤️ Food & Code & Game <br>
+💬 Grab coffee and let's talk about technology and livestyle<br>
+📫 How to reach me : thaveeshathathsaragalagama@gmail.com <br>
+📝 Favourite Quote : Either I could watch it happen or be a part of it!<br>
+⚡ Belief : There are only 10 people in the world, those who know binary and those who don't<br>
+
+
+<div align="center">
+<a href="https://www.linkedin.com/in/thaveesha-galagama-aa8389252" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
+
+------
+
+Credit: [shravanatirtha](https://github.com/ThaveeshaThathsara) <br>
+Last Edited on: 14/09/2021
