@@ -1,5 +1,5 @@
 
-### Hey Dev! I'm glad that you visited me 😄
+### Hi ! 
 <div align="center">
  <a href="https://github.com/ThaveeshaThathsara">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThaveeshaThathsara&theme=darcula&show_icons=true" />
