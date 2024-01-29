@@ -29,7 +29,6 @@
 💻 <br>
 🌱 I’m currently learning React and .NETCore and frontend  technologies<br>
 🔄 Routine : Eat - Sleep - Code - Repeat<br>
-😆 Fun fact call me as Bunny <br>
 ❤️ Food & Code & Game <br>
 💬 Grab coffee and let's talk about technology and livestyle<br>
 📫 How to reach me : thaveeshathathsaragalagama@gmail.com <br>
