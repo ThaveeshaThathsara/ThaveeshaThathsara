@@ -27,7 +27,7 @@
 
 ### Facts about me:<br>
 💻 <br>
-🌱 I’m currently learning React and .NETCore and frontend  technologies<br>
+🌱 I’m currently learning NextJs and Springboot and frontend  technologies<br>
 🔄 Routine : Eat - Sleep - Code - Repeat<br>
 ❤️ Food & Code & Game <br>
 💬 Grab coffee and let's talk about technology and livestyle<br>
